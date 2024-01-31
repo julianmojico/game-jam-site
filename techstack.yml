@@ -1,0 +1,511 @@
+repo_name: julianmojico/game-jam-site
+report_id: 25fee363444ffd129d179e2d1df80a7d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:40:13+00:00'
+requested_by: julianmojico
+provider: github
+branch: main
+detected_tools_count: 38
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/julianmojico/game-jam-site
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/julianmojico/game-jam-site
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 14.0.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Prisma
+  description: Modern Database Access for TypeScript &amp; Node.js
+  website_url: https://www.prisma.io/
+  version: 5.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/8680/Logo_Symbol_White.jpg
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 1.2.2
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  version: 1.1.1
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@next-auth/prisma-adapter"
+  description: Prisma adapter for next-auth
+  package_url: https://www.npmjs.com/@next-auth/prisma-adapter
+  version: 1.0.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@prisma/client"
+  description: Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript
+    ORM for Node.js that's tailored to your data
+  package_url: https://www.npmjs.com/@prisma/client
+  version: 5.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@tailwindcss/typography"
+  description: A Tailwind CSS plugin for automatically styling plain HTML content
+    with beautiful typographic defaults
+  package_url: https://www.npmjs.com/@tailwindcss/typography
+  version: 0.5.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.37
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: "@vercel/analytics"
+  description: Gain real-time traffic insights with Vercel Web Analytics
+  package_url: https://www.npmjs.com/@vercel/analytics
+  version: 1.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  version: 2.2.22
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 14.0.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: gray-matter
+  description: Parse front-matter from a string or file
+  package_url: https://www.npmjs.com/gray-matter
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17773/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: next-auth
+  description: Authentication for Next.js
+  package_url: https://www.npmjs.com/next-auth
+  version: 4.24.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: openai-edge
+  description: Use OpenAI's API from an edge runtime
+  package_url: https://www.npmjs.com/openai-edge
+  version: 1.2.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: prisma
+  description: Prisma is an open-source database toolkit
+  package_url: https://www.npmjs.com/prisma
+  version: 5.5.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: react-textarea-autosize
+  description: Textarea component for React which grows with content
+  package_url: https://www.npmjs.com/react-textarea-autosize
+  version: 8.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18399/default_b6c55b4b82fd22f93807b75b975c6924c9bd8f73.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 14.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: sharp
+  description: High performance Node.js image processing
+  package_url: https://www.npmjs.com/sharp
+  version: 0.32.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
+- name: unist-util-visit
+  description: Recursively walk over unist nodes
+  package_url: https://www.npmjs.com/unist-util-visit
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17139/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/julianmojico/game-jam-site/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: julianmojico
+  last_updated_on: 2024-01-09 23:35:58.000000000 Z
